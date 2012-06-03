@@ -118,7 +118,7 @@ Keynote speaker
    'div[1]': {position: 'absolute', left: '5%', bottm: '5%', width: '20%', 'font-size': '40%'},
 
 
-About "meetup"
+What about "meetup"
 ==============
 
 - Ice break
@@ -128,9 +128,11 @@ About "meetup"
 - Sprint(Hack-a-thon)
 
 ..
-   We have prepared the many time for talking between participants. 
-   Because, Typicaly Japanese are so shy.
+   Theme of PyCon JP 2011 is "Meetup".
+   We have prepared many time for talking between participants. 
+   Because, Typically Japanese are so shy.
    Me too, of course.
+   It's so fun.
    
 
 .. figure:: /_static/photos/lunch-state.JPG
@@ -273,7 +275,7 @@ CFP Opened
 ..
    We want your proposal!
    This year going to increase English session.
-   We want more English Proposal.
+   We want a proposal of the session in English.
 
 
 Schedule
@@ -337,7 +339,7 @@ Around AIIT
 
    div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%'},
 
-   .. attention here
+   .. Attention here
 
 
 Around AIIT
@@ -345,6 +347,8 @@ Around AIIT
 
 ..
    Here there is Tokyo Big Sight.
+   To Tokyo Big Sight is 20 minutes by train from AIIT.
+   
    Tokyo Big Sight is famous as venue of Comic Market.
    If you don't know about Comic Market, I recommend to search it.
    But, Comic Market of this summer was finished.
@@ -356,7 +360,7 @@ Around AIIT
 
 .. s6:: styles
 
-   div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%', textSize: '75%'},
+   div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%', fontSize: '75%'},
 
 
 Around AIIT
@@ -369,7 +373,76 @@ Around AIIT
    div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%'},
 
 ..
-   There are many sightseeing place in around AIIT.
+   Attention here
 
+
+Around AIIT
+===========
+
+..
+   I think you already know.
+   Here there is Akihabara.
+
+   To Akihabara is 40 minutes by train from AIIT.
+   Akihabara is the city of the OTAKU, by the OTAKU, for the OTAKU.
+
+   There are many place for sightseeing around AIIT.
+
+
+.. figure:: _static/oreimo.jpg
+
+   Billboard
+
+.. figure:: _static/d0000833_1.jpg
+
+   Main street of Akihabara
+
+.. figure:: _static/kebab.jpg
+
+   Soul food: Kebab
+
+   
+.. s6:: styles
+
+   'div[0]': {position: 'absolute', width: '35%', left: '5%', top: '20%', fontSize: '50%'},
+   'div[1]': {position: 'absolute', width: '35%', right: '5%', top: '20%', fontSize: '45%'},
+   'div[2]': {position: 'absolute', width: '35%', right: '30%', bottom: '0%', fontSize: '45%'},
+
+
+Summary
+=======
+
+- PyCon JP 2012 hold at Sep.15-17
+
+  - We are waiting your Proposal.
+  - English session is welcome,
+
+- We hope to see you at PyCon JP
+
+
+Thanks for your attention
+=========================
+
+.. s6:: styles
+
+    h2: {fontSize:'150%', textAlign:'center', margin:'30% auto'}
+
+
+One more thing
+==============
+
+- Please tell us:
+
+  - good restaurant or market
+  - good place for sightseeing
+  - souvenir of recomendations
+
+
+Thank you!
+==========
+
+.. s6:: styles
+
+    h2: {fontSize:'150%', textAlign:'center', margin:'30% auto'}
 
 

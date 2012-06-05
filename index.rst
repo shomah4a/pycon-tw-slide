@@ -9,7 +9,7 @@
 
 .. s6:: styles
 
-   'h1': {fontSize: '75% !important'},
+   'h1': {fontSize: '10% !important'},
 
 
 Who am I (お前、誰よ)
@@ -103,23 +103,23 @@ Keynote speaker
   - Python3 Packaging
   - Expert Python Programming
 
-.. figure:: /_static/photos/keynote-tarek.JPG
-
-   Tarek
-
 .. figure:: /_static/expertpython.jpg
 
    Expert Python Programming
 
+.. figure:: /_static/photos/keynote-tarek.JPG
+
+   Tarek
+
 .. s6:: styles
 
    'ul/li': {fontSize: '70%'},
-   'div[0]': {position: 'absolute', right: '5%', top: '20%', width: '30%', 'font-size': '40%'},
-   'div[1]': {position: 'absolute', left: '5%', bottm: '5%', width: '20%', 'font-size': '40%'},
+   'div[0]': {position: 'absolute', right: '5%', top: '20%', width: '25%', 'font-size': '40%'},
+   'div[1]': {position: 'absolute', left: '5%', bottm: '5%', width: '40%', 'font-size': '40%'},
 
 
 What about "meetup"
-==============
+===================
 
 - Ice break
 - Lunch
@@ -212,11 +212,13 @@ About PyCon JP 2012
 Keynote Speaker
 ===============
 
-.. figure:: _static/mitsuhiko.png
+.. figure:: _static/mitsuhiko.jpg
+
+   Armin
 
 .. s6:: styles
 
-   'div[0]': {position: 'absolute', riht: '0', top: '20%', width: '20%'},
+   'div[0]': {position: 'absolute', riht: '0', top: '20%', width: '30%', fontSize: '75%'},
 
 - Armin Ronacher
 
@@ -243,8 +245,11 @@ More people joins from Taiwan
 ..
    4 times PyCon Taiwan 2012
 
-- PyCon Japan 2012
+- PyCon Japan 2012 (hope)
 - 32 people from Taiwan!!!
+
+..
+  More people joins from Taiwan this year, We hope so.
 
 .. s6:: styles
 
@@ -258,9 +263,6 @@ More people joins from Taiwan
     ['ul[0]', 'fade in', '0.3'],
     ['ul[1]', 'fade in', '0.3'],
     ['ul[2]', 'fade in', '0.3'],
-
-..
-  More people joins from Taiwan, We hope.
 
 
 CFP Opened
@@ -309,7 +311,6 @@ Around AIIT
 
     h2: {fontSize:'150%', textAlign:'center', margin:'30% auto'}
 
-
 ..
    By the way.
    Next is short introduction about around AIIT that venue of PyCon JP.
@@ -339,7 +340,7 @@ Around AIIT
 
    div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%'},
 
-   .. Attention here
+.. Attention here
 
 
 Around AIIT
@@ -358,9 +359,19 @@ Around AIIT
 
    Tokyo Big Sight
 
+.. figure:: _static/comike.jpg
+
+   日式 otaku festival
+
+.. figure:: _static/rider.jpg
+
+   日式 masked rider
+
 .. s6:: styles
 
-   div: {width: '70%', textAlign: 'center', bottom: '0%', marginLeft: '15%', fontSize: '75%'},
+   'div[0]': {position: 'absolute', width: '40%', left: '5%', top: '20%', fontSize: '50%'},
+   'div[1]': {position: 'absolute', width: '35%', right: '5%', top: '20%', fontSize: '45%'},
+   'div[2]': {position: 'absolute', width: '35%', right: '30%', bottom: '0%', fontSize: '45%'},
 
 
 Around AIIT
@@ -391,7 +402,7 @@ Around AIIT
 
 .. figure:: _static/oreimo.jpg
 
-   Billboard
+   日式 Billboard
 
 .. figure:: _static/d0000833_1.jpg
 
@@ -399,7 +410,7 @@ Around AIIT
 
 .. figure:: _static/kebab.jpg
 
-   Soul food: Kebab
+   日式 Soul food: Kebab
 
    
 .. s6:: styles
@@ -414,7 +425,7 @@ Summary
 
 - PyCon JP 2012 hold at Sep.15-17
 
-  - We are waiting your Proposal.
+  - We are waiting for YOUR proposal.
   - English session is welcome,
 
 - We hope to see you at PyCon JP
@@ -431,11 +442,26 @@ Thanks for your attention
 One more thing
 ==============
 
+.. s6:: styles
+
+    h2: {fontSize:'150%', textAlign:'center', margin:'30% auto'}
+
+
+Please read
+===========
+
+.. figure:: _static/terapyon.png
+
 - Please tell us:
 
   - good restaurant or market
   - good place for sightseeing
   - souvenir of recomendations
+
+.. s6:: styles
+
+   h2: {display: 'none'},
+   div: {width: '100%'},
 
 
 Thank you!

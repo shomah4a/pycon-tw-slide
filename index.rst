@@ -461,7 +461,7 @@ Please read
 .. s6:: styles
 
    h2: {display: 'none'},
-   div: {width: '100%'},
+   'div[0]': {position: 'relative', top: '0', right: '0', width: '100%'},
 
 
 Thank you!

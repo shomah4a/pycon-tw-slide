@@ -290,7 +290,7 @@ CFP Opened
 - http://2012.pycon.jp/en/cfp.html
 - English track available
 
-  - English CFP is welcome!
+  - English proposal is welcome!
 
 ..
    We want your proposal!

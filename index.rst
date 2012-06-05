@@ -12,6 +12,20 @@
    'h1': {fontSize: '10% !important'},
 
 
+Welcome to PyCon JP
+===================
+
+.. s6:: styles
+
+   div: {textAlign: 'center'},
+
+- Shoma Hosaka
+- PyCon JP Spokesman
+
+- PyCon Taiwan 2012
+- 2012/06/10
+
+
 Who am I (お前、誰よ)
 =====================
 

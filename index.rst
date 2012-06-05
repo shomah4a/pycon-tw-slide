@@ -17,8 +17,7 @@ Welcome to PyCon JP
 
 .. s6:: styles
 
-    h2: {fontSize:'150%', textAlign:'center', marginTop:'10%'},
-    
+    h2: {fontSize:'150%', textAlign:'center', marginTop:'10%'},    
 
 
 - Shoma Hosaka
@@ -147,10 +146,11 @@ What about "meetup"
 
 ..
    Theme of PyCon JP 2011 is "Meetup".
-   We have prepared many time for talking between participants. 
+   We have prepared many time for talking between participants.
+   Example ice break, lunch, party and sprint.
    Because, Typically Japanese are so shy.
    Me too, of course.
-   It's so fun.
+   It's good for us and so fun.
    
 
 .. figure:: /_static/photos/lunch-state.JPG
@@ -190,6 +190,10 @@ What about "meetup"
    'div[0]': {position: 'absolute', left: '5%', top: '20%', width: '35%', 'font-size': '40%'},
    'div[1]': {position: 'absolute', right: '5%', top: '20%', width: '45%', 'font-size': '40%'},
 
+..
+   2 people joind from Taiwan last year, Sinker & Hychen.
+   They participate PyCon JP 2011 and they talked as session speaker.
+
 
 About PyCon JP 2012
 ===================
@@ -220,6 +224,8 @@ About PyCon JP 2012
    ul: {fontSize: '70%'},
 
 ..
+  We will held PyCon JP 2012 at September.
+
   Last year's theme is 'Meetup'.
   It means "make friends".
   
@@ -244,6 +250,7 @@ Keynote Speaker
 
 - Typical Products
 
+  - sphinx
   - flask
   - jinja2
   - werkzeug
@@ -441,7 +448,7 @@ Around AIIT
 Summary
 =======
 
-- PyCon JP 2012 hold at Sep.15-17
+- PyCon JP 2012 will held at Sep.15-17
 
   - We are waiting for YOUR proposal.
   - English session is welcome,

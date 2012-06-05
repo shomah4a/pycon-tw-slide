@@ -17,13 +17,18 @@ Welcome to PyCon JP
 
 .. s6:: styles
 
-   div: {textAlign: 'center'},
+    h2: {fontSize:'150%', textAlign:'center', marginTop:'10%'},
+    'ul[0]': {fontSize: '75%', textAlign: 'center'},
+    'ul[0]': {fontSize: '60%', textAlign: 'center'},
+
 
 - Shoma Hosaka
-- PyCon JP Spokesman
+
+  - PyCon JP Spokesman
 
 - PyCon Taiwan 2012
-- 2012/06/10
+
+  - 2012/06/10
 
 
 Who am I (お前、誰よ)
